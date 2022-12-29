@@ -17,7 +17,7 @@ public class HelloController {
 
     @RequestMapping(path = "/home", method = RequestMethod.GET)
     public String home() {
-        return "Hello Hazim Thomas";
+        return "Hello Hazim Toka";
     }
 
     @RequestMapping(path = "/myhealth", method = RequestMethod.GET)
