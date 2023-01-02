@@ -10,7 +10,7 @@ import org.springframework.security.crypto.password.NoOpPasswordEncoder;
 import org.springframework.security.provisioning.InMemoryUserDetailsManager;
 import org.springframework.security.provisioning.UserDetailsManager;
 
-@Configuration
+//@Configuration
 public class SecurityConfigV2 extends WebSecurityConfigurerAdapter {
 
     @Override
